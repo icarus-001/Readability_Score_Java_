@@ -1,0 +1,48 @@
+[1;31m
+Start test 1[0m
+Words: 108
+Sentences: 6
+Characters: 580
+Syllables: 197
+Polysyllables: 22
+
+GEnter the score you want to calculate ((ARI, FK, SMOG, CL, all)) > all
+
+:Automated Readability Index: 12.86 (about 17-year-olds).
+AFlesch–Kincaid readability tests: 12.95 (about 17-year-olds).
+=Simple Measure of Gobbledygook: 14.06 (about 22-year-olds).
+3Coleman–Liau index: 14.13 (about 22-year-olds).
+
+>This text should be understood in average by 19.5-year-olds.
+[1;31m
+Start test 2[0m
+Words: 137
+Sentences: 15
+Characters: 687
+Syllables: 215
+Polysyllables: 17
+
+GEnter the score you want to calculate ((ARI, FK, SMOG, CL, all)) > all
+
+9Automated Readability Index: 6.75 (about 12-year-olds).
+@Flesch–Kincaid readability tests: 6.49 (about 12-year-olds).
+<Simple Measure of Gobbledygook: 9.21 (about 15-year-olds).
+3Coleman–Liau index: 10.44 (about 16-year-olds).
+
+?This text should be understood in average by 13.75-year-olds.
+[1;31m
+Start test 3[0m
+Words: 180
+Sentences: 14
+Characters: 982
+Syllables: 309
+Polysyllables: 32
+
+GEnter the score you want to calculate ((ARI, FK, SMOG, CL, all)) > all
+
+:Automated Readability Index: 10.69 (about 16-year-olds).
+@Flesch–Kincaid readability tests: 9.68 (about 15-year-olds).
+=Simple Measure of Gobbledygook: 11.76 (about 18-year-olds).
+3Coleman–Liau index: 13.97 (about 22-year-olds).
+
+?This text should be understood in average by 17.75-year-olds.
